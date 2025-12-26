@@ -1,14 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=28&
-  duration=3000&
-  pause=1000&
-  color=00FF9C&
-  center=true&
-  vCenter=true&
-  width=700&
-  lines=KARMATIX+DEVELOPER;AI+%7C+Python+%7C+Computer+Vision;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=KARMATIX+DEVELOPER;AI+%7C+Python+%7C+Computer+Vision;Building+Smart+Systems" />
 </p>
 
 ```bash
@@ -45,9 +36,9 @@ MERN • AI • Python • Computer Vision
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Karma-tic
-- LinkedIn: sujeetkarmatix
+- LinkedIn: https://linkedin.com/in/sujeetkarmatix
 
 ---
 ⭐ If you like my work, consider starring a repo!
-
+```yaml
 
