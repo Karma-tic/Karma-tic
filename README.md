@@ -13,10 +13,10 @@ Full-stack developer in Bhopal, India. I build web apps end to end: React + Type
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [CampusConnect](https://github.com/Karma-tic/CampusConnect) · [live](https://campusconnect.studio) | Student platform with study resources, AI career guidance and a resume builder with Razorpay payments | React, Firebase, Cloud Functions, Razorpay |
+| [Stock AI](https://github.com/Karma-tic/stock-ai-frontend) · [live](https://byteplay.org) | AI-assisted NSE stock research: analysis, IPO evidence, event radar and calculators | React, TypeScript, FastAPI, Supabase, LLMs |
 | [Karmchari](https://github.com/Karma-tic/karmchari) | Role-based project, task and expense-approval portal (Admin / Manager / Employee) | React, Node.js, Express, MySQL |
-| [Employee Management API](https://github.com/Karma-tic/employee-management-system) | ASP.NET Core Web API with JWT auth and SQL Server scripts | C#, ASP.NET Core, SQL Server |
-| [RAG PDF Assistant](https://github.com/Karma-tic/rag-pdf-assistant) | Ask questions about your PDFs and get cited answers | Python, LangChain, Groq |
-| [Bhopali Safar](https://github.com/Karma-tic/jugaad) | 3D browser game set in old Bhopal, built for the MP Game Udaan 2026 hackathon | Three.js, Web Audio |
+| [Scheme Registry API](https://github.com/Karma-tic/scheme-registry-api) | ASP.NET Core Web API with JWT auth and SQL Server scripts | C#, ASP.NET Core, SQL Server |
+| [Bhopali Safar](https://github.com/Karma-tic/bhopali-safar) · [play](http://findyourvibe.me/bhopali-safar/) | 3D browser game set in old Bhopal, built for the MP Game Udaan 2026 hackathon | Three.js, Web Audio |
 
 ### Contact
 
