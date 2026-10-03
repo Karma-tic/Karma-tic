@@ -1,44 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=KARMATIX+DEVELOPER;MERN+%7C+AI+%7C+Python+%7C+Computer+Vision;Building+Smart+Systems" />
-</p>
+## Hi, I'm Sujeet Singh
 
-```bash
-> whoami
-Sujeet Singh
-Aspiring Software Developer
-MERN • AI • Python • Computer Vision
-```
----
+Full-stack developer in Bhopal, India. I build web apps end to end: React + TypeScript on the front, Node.js or ASP.NET Core on the back, SQL underneath.
 
-## 👨‍💻 About Me
-- Passionate about building intelligent systems and practical applications
-- Interested in **AI, Machine Learning, Computer Vision, and Web Development**
-- I enjoy turning ideas into working products
+- Currently: Trainee at MPSEDC on **Samagra**, Madhya Pradesh's citizen registry for welfare schemes
+- Before: Software Engineering intern at **MPOnline** (React, ASP.NET Core, SQL Server, FastAPI, n8n)
+- MCA, UIT-RGPV (8.97 CGPA) · TCS CodeVita global rank 224
 
----
+**Stack:** TypeScript · JavaScript · React · Next.js · Node.js · Express · C# · ASP.NET Core · EF Core · SQL Server · MySQL · MongoDB · Docker · GitHub Actions
 
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, JavaScript
-- **Libraries & Tools:** OpenCV, MediaPipe, NumPy
-- **Web:** HTML, CSS, JavaScript, MERN Stack
-- **Tools:** Git, GitHub, Jupyter Notebook
+### Projects
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [CampusConnect](https://github.com/Karma-tic/CampusConnect) · [live](https://campusconnect.studio) | Student platform with study resources, AI career guidance and a resume builder with Razorpay payments | React, Firebase, Cloud Functions, Razorpay |
+| [Karmchari](https://github.com/Karma-tic/karmchari) | Role-based project, task and expense-approval portal (Admin / Manager / Employee) | React, Node.js, Express, MySQL |
+| [Employee Management API](https://github.com/Karma-tic/employee-management-system) | ASP.NET Core Web API with JWT auth and SQL Server scripts | C#, ASP.NET Core, SQL Server |
+| [RAG PDF Assistant](https://github.com/Karma-tic/rag-pdf-assistant) | Ask questions about your PDFs and get cited answers | Python, LangChain, Groq |
+| [Bhopali Safar](https://github.com/Karma-tic/jugaad) | 3D browser game set in old Bhopal, built for the MP Game Udaan 2026 hackathon | Three.js, Web Audio |
 
-## 📌 Featured Projects
-- **AI Image Caption Generator** – Generates captions using deep learning  
-- **Gesture Controller** – Real-time hand gesture tracking with OpenCV  
-- **Traffic System** – Simulation-based traffic management project  
+### Contact
 
-👉 Check out my repositories below!
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/Karma-tic
-- LinkedIn: https://linkedin.com/in/sujeetkarmatix
-
----
-⭐ If you like my work, consider starring a repo!
-```yaml
-
+[LinkedIn](https://www.linkedin.com/in/sujeetkarmatix) · singhsujeet9754@gmail.com
